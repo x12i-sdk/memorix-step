@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-step",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-step",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-step",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Run a model-assisted step with an explicit local callback",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:35:13.784276+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "d5c5984fe15e34a35b1414f08aef36f348b045b3270a10415f30aed0e37c4569",
+    "manifestSha256": "c4b00acafc38e10934d4bbecdc16d640a979961b902a65783001b392ff00397a"
+  }
+}
